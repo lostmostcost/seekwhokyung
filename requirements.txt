@@ -1,0 +1,6 @@
+#pip freeze > requirements.txt
+#pip install -r requirements.txt
+asgiref==3.8.0
+Django==4.2.11
+sqlparse==0.4.4
+typing_extensions==4.10.0
