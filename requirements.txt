@@ -2,5 +2,7 @@
 #pip install -r requirements.txt
 asgiref==3.8.0
 Django==4.2.11
+django-phonenumber-field==7.3.0
+phonenumbers==8.13.32
 sqlparse==0.4.4
 typing_extensions==4.10.0
